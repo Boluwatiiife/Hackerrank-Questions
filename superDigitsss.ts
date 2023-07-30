@@ -1,4 +1,4 @@
-function superDigitss(n:string,k:number):any{
+function superDigitss(n:string,k:number):number{
     let arrOfNum=Array.from(String(n),Number);
     let firstt:number[]=[];
     let sumOfFirstt:number=0;
