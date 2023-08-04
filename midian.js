@@ -9,3 +9,4 @@ function find_the_midian(arr){
 }
 console.log(find_the_midian([0,2,4,6,3]));
 console.log(find_the_midian([20,10,22,4,8,9,1,4,7,24,33]));
+console.log(find_the_midian([4,5,2,1,6,3,7]));
